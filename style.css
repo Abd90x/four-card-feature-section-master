@@ -14,10 +14,12 @@ body {
   font-size: 2rem;
   font-weight: 200;
   margin: 0;
+
 }
 .title h3 {
   font-size: 2rem;
   margin: 0;
+  color: hsl(234, 12%, 34%);
 }
 .title p {
   max-width: 500px;
@@ -29,12 +31,12 @@ body {
   display: grid;
   justify-content: center;
   align-items: center;
-  gap: 20px;
+  gap: 30px;
   margin: auto;
 }
 .cards .box {
   background-color: hsl(0, 0%, 100%);
-  padding: 20px;
+  padding: 25px;
   border-radius: 5px;
   -webkit-border-radius: 5px;
   -moz-border-radius: 5px;
